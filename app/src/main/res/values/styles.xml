@@ -21,4 +21,10 @@
         <item name="colorControlHighlight">@color/colorPrimary</item>
         <item name="android:textColor">@color/editTextColorWhite</item>
     </style>
+    <style name="EdiTextBlack" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@color/editTextColoBlack</item>
+    </style>
+
 </resources>

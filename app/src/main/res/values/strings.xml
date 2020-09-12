@@ -5,4 +5,9 @@
     <string name="text_button_login">Login</string>
     <string name="dont_have_account">¿No tienes Cuenta?</string>
     <string name="create_here">,Crea una aquí</string>
+    <string name="email">email</string>
+    <string name="username_card">Jean Bryan</string>
+    <string name="first_word_card">Hace</string>
+    <string name="second_word_card">4 días</string>
+    <string name="like_number_card">10 me gusta</string>
 </resources>
